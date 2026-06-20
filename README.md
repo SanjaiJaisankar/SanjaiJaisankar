@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanjai%20Jaisankar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Java%20%7C%20Full-Stack%20Web%20Developer&descAlignY=62&descSize=16" width="100%"/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Sanjai+Jaisankar+%F0%9F%91%8B;+Software+Engineer+%7C+Java+%2B+Struts+%2B+Oracle+SQL;+Full-Stack+Web+Developer+%F0%9F%9A%80;+Building+Scalable+MVC+Applications+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Sanjai+Jaisankar+%F0%9F%91%8B;+SSoftware+Engineer+%7C+Java+%2B+Struts+%2B+Oracle+SQLL;+Full-Stack+Web+Developer+%F0%9F%9A%80;+Building+Scalable+MVC+Applications+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </div>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=SanjaiJaisankar&style=flat-square&color=70a5fd&label=Profile+Views" align="right"/>
